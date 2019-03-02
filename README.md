@@ -5,7 +5,7 @@
 
 
 Demo:
-http://demo.cloudmes.io:32777
+http://demo.cloudmes.io:32777（该地址暂时不可用，需要演示，请加QQ远程演示）
 
 
 **QQ群：622319616**
