@@ -1,11 +1,12 @@
 # industry4.0-mes
-开源MES，生产制造管理系统,Manufacturing Execution System
+基于QCADOO开源MES，生产制造管理系统,Manufacturing Execution System
 
 邀请开发人员持续迭代，成为开源一份子
 
 
 Demo:
-http://demo.cloudmes.io:32777（该地址暂时不可用，需要演示，请加QQ远程演示）
+http://demo.cloudmes.io
+用户名及密码：admin
 
 
 **QQ群：622319616**
