@@ -4,6 +4,7 @@
 邀请开发人员持续迭代，成为开源一份子
 
 
+最新代码正在整理上传，请先看demo.
 Demo:
 http://demo.cloudmes.io
 用户名及密码：admin
