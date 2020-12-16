@@ -7,7 +7,13 @@
 最新代码正在整理上传，请先看demo.
 Demo:
 http://demo.cloudmes.io
-用户名及密码：admin
+DEMO版本是完整的商业版本，商业部分付费开源。
+用户名及密码：
+admin/admin
+admin1/admin1
+test001/123456
+test002/123456
+
 
 
 **QQ群：622319616**
